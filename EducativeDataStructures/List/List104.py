@@ -25,3 +25,8 @@ print(d)
 # Delete Every Alternate element from the list
 del d[::2]
 print(d)
+
+# Negativr Slicing
+w = list(range(10))
+print(w)
+print(w[:-1])
