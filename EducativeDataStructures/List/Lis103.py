@@ -27,3 +27,8 @@ l4.pop(0)
 print(l4)
 l4.pop()
 print(l4)
+
+# Reverse the list
+l5 = [6, 2, 5, 1, 2, 3]
+l5.reverse()
+print(l5)
